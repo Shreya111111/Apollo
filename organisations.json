@@ -1,0 +1,75 @@
+{
+    "num_fetch_result": null,
+    "organizations": [
+        {
+            "name": "Google",
+            "domain": "google.com",
+            "website_url": "http://www.google.com",
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/661102627d22eb00076f5cba/picture",
+            "id": "5fc93db64c38d300d6aa24e6"
+        },
+        {
+            "name": "Google DeepMind",
+            "domain": "deepmind.google",
+            "website_url": "http://www.deepmind.google",
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/660ffab10944060007686b92/picture",
+            "id": "57c4b74da6da98370bc9529f"
+        },
+        {
+            "name": "Google Developer Experts",
+            "domain": "whisperstorm.one",
+            "website_url": "http://www.whisperstorm.one",
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/660c0e2d29f85a0007e7bb2a/picture",
+            "id": "632481bf42041300a3f2e65e"
+        },
+        {
+            "name": "Google Actívate",
+            "domain": "grow.google",
+            "website_url": "http://www.grow.google",
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/660ac1a837fccf00073db981/picture",
+            "id": "5f49c0e1f15fd000014b400a"
+        },
+        {
+            "name": "Google Operations Center",
+            "domain": "googleoperationscenter.com",
+            "website_url": "http://www.googleoperationscenter.com",
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6614195660becf0007312aca/picture",
+            "id": "5e577330a8de0900019c7ac0"
+        },
+        {
+            "name": "Google UX Design Professional",
+            "domain": null,
+            "website_url": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/660a938154700d0007eebb42/picture",
+            "id": "61ec0e9f4a1b760001021a23"
+        },
+        {
+            "name": "Google Developers Group",
+            "domain": null,
+            "website_url": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/660989edfc8e8e0006aacaaf/picture",
+            "id": "5a9e897ca6da98d9356ccacf"
+        },
+        {
+            "name": "Google Summer of Code",
+            "domain": "summerofcode.withgoogle.com",
+            "website_url": "http://www.summerofcode.withgoogle.com",
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6609209887e2080007f64ab0/picture",
+            "id": "5da7005ecd17be00017e4d9a"
+        },
+        {
+            "name": "Google AdSense",
+            "domain": null,
+            "website_url": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6614bcb8f4a02b0008c7bfdd/picture",
+            "id": "55922fea7369641908c1ba00"
+        },
+        {
+            "name": "Google Digital Academy (Skillshop)",
+            "domain": null,
+            "website_url": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/660d0a62508db400077526bd/picture",
+            "id": "5f3f8b8707e8e50001822801"
+        }
+    ]
+}
